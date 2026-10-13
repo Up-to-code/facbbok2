@@ -48,3 +48,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Project links
+
+[Source](https://github.com/Up-to-code/facbbok2) · [Issues](https://github.com/Up-to-code/facbbok2/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
